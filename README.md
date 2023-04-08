@@ -3,13 +3,15 @@
 </h2>
 <p>
   <em>📖 Full Stack developer at 
-      <a>
+      <a href="https://www.soyhenry.com/">
       Soy Henry Bootcamp
       </a>
-    </br>📖 Project Manager at 
+    </br>📖 Project Manager at
+      <a href="https://www.unipiloto.edu.co/">
       UPC
       </a>
     </br>📖 Civil Enginner at 
+      <a href="https://www.unipiloto.edu.co/">
       UPC
       </a>
   </em>
