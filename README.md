@@ -1,4 +1,4 @@
-  ## Hi there 👋, I'm Cata Hernandez! <img src="https://user-images.githubusercontent.com/110860662/230705107-d5735a21-7581-455c-a111-43759ed56256.gif" width=60>
+  ## Hi there 👋, I'm Cata Hernandez Mejia! <img src="https://user-images.githubusercontent.com/110860662/230705107-d5735a21-7581-455c-a111-43759ed56256.gif" width=60>
   
 </h2>
 <p>
