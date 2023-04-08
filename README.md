@@ -2,7 +2,7 @@
   
 </h2>
 <p>
-  <em>📖 Full Stack developer at 
+  <em>📖 Full Stack Developer at 
       <a href="https://www.soyhenry.com/">
       Soy Henry Bootcamp
       </a>
