@@ -1,4 +1,4 @@
-  ## Hi there 👋, I'm Cata Hernandez! <img src="https://user-images.githubusercontent.com/110860662/230705107-d5735a21-7581-455c-a111-43759ed56256.gif" width=80 height=80>
+  ## Hi there 👋, I'm Cata Hernandez! <img src="https://user-images.githubusercontent.com/110860662/230705107-d5735a21-7581-455c-a111-43759ed56256.gif" width=60>
   
 </h2>
 <p>
@@ -20,7 +20,7 @@
 [GitHub Cata-hm](https://github.com/Cata-hm)
 
 
-### A little more about me... <img src="https://user-images.githubusercontent.com/110860662/230705821-6712387e-dfd8-4206-9487-87c452248bd1.gif" alt="giphy" width="90">
+### A little more about me... <img src="https://user-images.githubusercontent.com/110860662/230705821-6712387e-dfd8-4206-9487-87c452248bd1.gif" alt="giphy" width="60">
 
 ```javascript
 const cataHernandezMejia = {
