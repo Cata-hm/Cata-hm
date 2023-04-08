@@ -22,7 +22,7 @@
 [GitHub Cata-hm](https://github.com/Cata-hm)
 
 
-### A little more about me... <img src="https://user-images.githubusercontent.com/110860662/230705821-6712387e-dfd8-4206-9487-87c452248bd1.gif" alt="giphy" width="90">
+### A little more about me... <img src="https://user-images.githubusercontent.com/110860662/230705821-6712387e-dfd8-4206-9487-87c452248bd1.gif" alt="giphy" width="120">
 
 ```javascript
 const cataHernandezMejia = {
