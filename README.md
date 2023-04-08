@@ -1,6 +1,5 @@
-<h2> 
-  Hi there 👋, I'm Cata Hernandez!
-  ![]("https://i.gifer.com/6oa.gif")
+  ## Hi there 👋, I'm Cata Hernandez! <img src="https://user-images.githubusercontent.com/110860662/230705107-d5735a21-7581-455c-a111-43759ed56256.gif" width=80 height=80>
+  
 </h2>
 <p>
   <em>📖 Full Stack developer at 
@@ -21,7 +20,8 @@
 [GitHub Cata-hm](https://github.com/Cata-hm)
 
 
-### A little more about me...  
+### A little more about me... <img src="https://user-images.githubusercontent.com/110860662/230705574-67bbe737-33dc-40e4-b71d-94646fd72692.gif" alt="giphy" width="80">
+
 
 ```javascript
 const cataHernandezMejia = {
